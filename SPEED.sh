@@ -15,7 +15,7 @@ echo $green
 figlet "SPEED"
 echo $purple"<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
 echo $white"Author : Yadi Fernando"
-echo $cyan"Kontak : 085706249638"
+echo $cyan"Instagram : @yadi_fernando123"
 echo $red"SUBSCRIBE :" $yellow"Official Yadi Fernando"
 echo $purple"<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
 echo $green"     SELAMAT DATANG BRO"
